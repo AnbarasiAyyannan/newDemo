@@ -13,6 +13,7 @@ public class Tester {
 	public static void display()
 	{
 		System.out.println("inside display");
+		System.out.println("test1");
 	}
 
 }
